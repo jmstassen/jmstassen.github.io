@@ -1,11 +1,11 @@
 # Site settings
-author: John Stassen
-title: 
+author: John M. Stassen
+title: Stass Blog
 header-img: img/home-bg.png
 email: john.stassen@gmail.com
-copyright_name: John Stassen
+copyright_name: John M. Stassen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  thoughts and reflections - work in progress
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jmstassen

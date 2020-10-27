@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "SDG Explorer (CLI Data Gem Portfolio Project)"
-date:       2020-10-27 03:22:08 +0000
+date:       2020-10-26 23:22:09 -0400
 permalink:  sdg_explorer_cli_data_gem_portfolio_project
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Forward Position task manager (Sinatra project)"
-date:       2021-01-31 21:22:08 +0000
+date:       2021-01-31 16:22:09 -0500
 permalink:  forward_position_task_manager_sinatra_project
 ---
 
@@ -20,4 +20,4 @@ With all of these basics in place, I also created Assistant Mode for users whose
 
 One of the challenges of the project was making sure to commit changes often enough. Many times when developing a solution, one solution would lead directly to another issue or error, and it's easy to just keep playing whack-a-mole until you realize you don't know what you've done since your last commit.
 
-Here's a super quick demo of the app: [coming soon]
+Here's a super quick demo of the app: https://youtu.be/_plYVNiW-Nc
